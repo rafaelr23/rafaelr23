@@ -27,15 +27,15 @@ const aboutMe = {
 <table>
   <tbody>
     <tr valign="top">
-      <td width="40%" align="center">
+      <td width="30%" align="center">
         <span>𝗖#</span><br><br><br>
         <img height="64px" width="100px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
-      <td width="40%" align="center">
+      <td width="30%" align="center">
         <span>𝗝𝗮𝘃𝗮</span><br><br><br>
         <img height="64px" width="100px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
-      <td width="40%" align="center">
+      <td width="30%" align="center">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
         <img height="64px" width="100px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
